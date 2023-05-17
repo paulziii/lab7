@@ -1,3 +1,3 @@
-#some text in file
+#some text in file...
 
-##new line with text with enter
+##new line with another text with enter
