@@ -1,1 +1,2 @@
-some text in file
+#some text in file...
+##another text in file
